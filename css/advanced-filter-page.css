@@ -1,0 +1,775 @@
+/* screen - advanced-filter-page */
+
+.advanced-filter-page {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  height: 1585px;
+  overflow: hidden;
+  width: 1512px;
+}
+
+.advanced-filter-page .overlap-group8 {
+  height: 1586px;
+  margin-left: -1px;
+  margin-top: -1px;
+  position: relative;
+  width: 1517px;
+}
+
+.advanced-filter-page .overlap-group3 {
+  height: 1586px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1517px;
+}
+
+.advanced-filter-page .i-stock-1272744431-2 {
+  height: 972px;
+  left: 794px;
+  position: absolute;
+  top: 1px;
+  width: 719px;
+}
+
+.advanced-filter-page .group-238482 {
+  align-items: center;
+  background-color: var(--palm-leaf);
+  display: flex;
+  height: 105px;
+  justify-content: flex-end;
+  left: 1px;
+  min-width: 1513px;
+  padding: 9px 18.9px;
+  position: absolute;
+  top: 0;
+}
+
+.advanced-filter-page .navbar {
+  align-self: flex-end;
+  height: 75px;
+  position: relative;
+  width: 1224px;
+}
+
+.advanced-filter-page .navbar-link-about-us {
+  left: 143px;
+  letter-spacing: -0.44px;
+  line-height: 66.5px;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  white-space: nowrap;
+  width: 336px;
+}
+
+.advanced-filter-page .navbar-link-volunteer {
+  left: 702px;
+  letter-spacing: -0.44px;
+  line-height: 66.5px;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  white-space: nowrap;
+  width: 334px;
+}
+
+.advanced-filter-page .navbar-link-employers {
+  left: 516px;
+  letter-spacing: -0.44px;
+  line-height: 66.5px;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  white-space: nowrap;
+  width: 335px;
+}
+
+.advanced-filter-page .navbar-link-resources {
+  left: 888px;
+  letter-spacing: -0.44px;
+  line-height: 66.5px;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  white-space: nowrap;
+  width: 336px;
+}
+
+.advanced-filter-page .navbar-link-good-work {
+  cursor: pointer;
+  left: 0;
+  letter-spacing: 0;
+  position: absolute;
+  top: 14px;
+  width: 191px;
+}
+
+.advanced-filter-page .job-seekers {
+  align-items: flex-start;
+  display: flex;
+  height: 75px;
+  left: 330px;
+  min-width: 334px;
+  position: absolute;
+  top: 0;
+}
+
+.advanced-filter-page .job-seekers-1 {
+  letter-spacing: -0.44px;
+  line-height: 66.5px;
+  margin-top: -1px;
+  min-height: 75px;
+  text-align: center;
+  white-space: nowrap;
+  width: 334px;
+}
+
+.advanced-filter-page .icon-heart {
+  height: 21px;
+  margin-top: 6.44px;
+  width: 24px;
+}
+
+.advanced-filter-page .icon-notifications {
+  height: 32px;
+  margin-left: 24px;
+  margin-top: 8.64px;
+  width: 30px;
+}
+
+.advanced-filter-page .button {
+  align-items: flex-start;
+  border-radius: 8px;
+  box-shadow: 0px 10px 25px #1525481a;
+  display: flex;
+  height: 59px;
+  margin-left: 36px;
+  overflow: hidden;
+  padding: 15px 35.7px;
+  width: 134px;
+}
+
+.advanced-filter-page .label {
+  letter-spacing: 0;
+  min-height: 19px;
+  min-width: 59px;
+  text-align: center;
+}
+
+.advanced-filter-page .canadas-largest-com {
+  left: 53px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 1113px;
+  width: 463px;
+}
+
+.advanced-filter-page .contact-us {
+  left: 968px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 1176px;
+  width: 132px;
+}
+
+.advanced-filter-page .employers {
+  left: 968px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 1118px;
+  width: 119px;
+}
+
+.advanced-filter-page .job-seekers-2 {
+  left: 968px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 1060px;
+  width: 144px;
+}
+
+.advanced-filter-page .terms-conditions {
+  left: 1157px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 1060px;
+  width: 223px;
+}
+
+.advanced-filter-page .privacy-policy {
+  left: 1157px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 1118px;
+  width: 189px;
+}
+
+.advanced-filter-page .overlap-group1 {
+  align-items: flex-start;
+  background-color: var(--palm-leaf-2);
+  display: flex;
+  height: 622px;
+  left: 0;
+  min-width: 1513px;
+  padding: 53.3px 131px;
+  position: absolute;
+  top: 964px;
+}
+
+.advanced-filter-page .good-work {
+  color: var(--white);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-xxl);
+  font-weight: 700;
+  letter-spacing: 0;
+  margin-top: 58.38px;
+  min-height: 28px;
+  width: 163px;
+}
+
+.advanced-filter-page .copyright {
+  align-self: flex-end;
+  letter-spacing: 0;
+  margin-left: 208px;
+  min-height: 39px;
+  text-align: center;
+  width: 487px;
+}
+
+.advanced-filter-page .span1 {
+  color: var(--white);
+  font-family: var(--font-family-montserrat);
+  font-size: var(--font-size-s);
+  font-weight: 600;
+}
+
+.advanced-filter-page .group-238494 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  left: 859px;
+  min-height: 106px;
+  position: absolute;
+  top: 1271px;
+  width: 521px;
+}
+
+.advanced-filter-page .subscribe-to-our-newsletter {
+  color: var(--white);
+  font-family: var(--font-family-mulish);
+  font-size: var(--font-size-xxl);
+  font-weight: 400;
+  height: 44px;
+  letter-spacing: 0;
+  margin-right: 2.0px;
+  width: 339px;
+}
+
+.advanced-filter-page .flex-row {
+  align-items: flex-start;
+  display: flex;
+  margin-top: 12px;
+  min-width: 521px;
+}
+
+.advanced-filter-page .rectangle-34624405 {
+  background-color: var(--white);
+  border-radius: 5px;
+  box-shadow: 0px 4px 4px #00000040;
+  height: 50px;
+  width: 322px;
+}
+
+.advanced-filter-page .overlap-group {
+  align-items: flex-start;
+  background-color: var(--black);
+  border-radius: 5px;
+  box-shadow: 0px 4px 4px #00000040;
+  display: flex;
+  height: 50px;
+  justify-content: flex-end;
+  margin-left: 14px;
+  min-width: 185px;
+  padding: 0 29px;
+}
+
+.advanced-filter-page .subscribe {
+  color: var(--white);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-xxl);
+  font-weight: 600;
+  height: 44px;
+  letter-spacing: 0;
+  width: 126px;
+}
+
+.advanced-filter-page .email {
+  color: var(--mountain-mist);
+  font-family: var(--font-family-raleway);
+  font-size: var(--font-size-m);
+  font-weight: 400;
+  left: 875px;
+  letter-spacing: 0;
+  line-height: 22px;
+  position: absolute;
+  top: 1341px;
+  white-space: nowrap;
+  width: 75px;
+}
+
+.advanced-filter-page .line-1 {
+  height: 3px;
+  left: 128px;
+  position: absolute;
+  top: 1432px;
+  width: 1256px;
+}
+
+.advanced-filter-page .canadas-largest-com-1 {
+  left: 128px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 1127px;
+  width: 463px;
+}
+
+.advanced-filter-page .privacy-policy-1 {
+  left: 1240px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 1071px;
+  width: 155px;
+}
+
+.advanced-filter-page .terms-conditions-1 {
+  left: 957px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 1071px;
+  width: 223px;
+}
+
+.advanced-filter-page .job-seekers-3 {
+  left: 772px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 1071px;
+  width: 125px;
+}
+
+.advanced-filter-page .contact-us-1 {
+  left: 960px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 1132px;
+  width: 132px;
+}
+
+.advanced-filter-page .employers-1 {
+  left: 777px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 1132px;
+  width: 119px;
+}
+
+.advanced-filter-page .group-238489 {
+  align-items: center;
+  background-color: var(--alto);
+  border-radius: 30px;
+  display: flex;
+  height: 60px;
+  left: 128px;
+  min-width: 60px;
+  padding: 0 18px;
+  position: absolute;
+  top: 1323px;
+}
+
+.advanced-filter-page .icon {
+  height: 24px;
+  width: 24px;
+}
+
+.advanced-filter-page .group-238495 {
+  align-items: flex-end;
+  background-color: var(--alto);
+  border-radius: 30px;
+  display: flex;
+  height: 60px;
+  justify-content: flex-end;
+  left: 198px;
+  min-width: 60px;
+  padding: 17.6px 22.8px;
+  position: absolute;
+  top: 1323px;
+}
+
+.advanced-filter-page .icon-1 {
+  height: 24px;
+  width: 14px;
+}
+
+.advanced-filter-page .group-238496 {
+  align-items: center;
+  background-color: var(--alto);
+  border-radius: 30px;
+  display: flex;
+  height: 60px;
+  left: 272px;
+  min-width: 60px;
+  padding: 0 19px;
+  position: absolute;
+  top: 1322px;
+}
+
+.advanced-filter-page .icon-mail {
+  height: 24px;
+  width: 22px;
+}
+
+.advanced-filter-page .group-238497 {
+  align-items: flex-start;
+  background-color: var(--alto);
+  border-radius: 30px;
+  display: flex;
+  height: 60px;
+  left: 346px;
+  min-width: 60px;
+  padding: 17px;
+  position: absolute;
+  top: 1322px;
+}
+
+.advanced-filter-page .icon-linkedin {
+  height: 26px;
+  width: 26px;
+}
+
+.advanced-filter-page .job-title {
+  left: 404px;
+  letter-spacing: 0;
+  line-height: 22px;
+  position: absolute;
+  top: 359px;
+  white-space: nowrap;
+  width: 176px;
+}
+
+.advanced-filter-page .overlap-group5 {
+  background-color: var(--white-2);
+  border-radius: 15px;
+  height: 56px;
+  left: 404px;
+  position: absolute;
+  top: 400px;
+  width: 296px;
+}
+
+.advanced-filter-page .input-your {
+  left: 15px;
+  letter-spacing: 0;
+  line-height: 22px;
+  position: absolute;
+  top: 15px;
+  white-space: nowrap;
+  width: 243px;
+}
+
+.advanced-filter-page .icbaseline-arrow-drop-down-circle {
+  height: 24px;
+  left: 255px;
+  position: absolute;
+  top: 16px;
+  width: 24px;
+}
+
+.advanced-filter-page .location {
+  left: 92px;
+  letter-spacing: 0;
+  line-height: 22px;
+  position: absolute;
+  top: 359px;
+  white-space: nowrap;
+  width: 176px;
+}
+
+.advanced-filter-page .overlap-group7 {
+  align-items: flex-start;
+  background-color: var(--white-2);
+  border-radius: 15px;
+  display: flex;
+  height: 56px;
+  left: 92px;
+  min-width: 296px;
+  padding: 15px;
+  position: absolute;
+  top: 400px;
+}
+
+.advanced-filter-page .input-your-1 {
+  letter-spacing: 0;
+  line-height: 22px;
+  min-height: 22px;
+  white-space: nowrap;
+  width: 230px;
+}
+
+.advanced-filter-page .icbaseline-arrow-drop-down-circle-1 {
+  align-self: center;
+  height: 24px;
+  margin-left: 8px;
+  width: 24px;
+}
+
+.advanced-filter-page .salary-range {
+  left: 404px;
+  letter-spacing: 0;
+  line-height: 22px;
+  position: absolute;
+  top: 486px;
+  white-space: nowrap;
+  width: 176px;
+}
+
+.advanced-filter-page .overlap-group2 {
+  background-color: var(--white-2);
+  border-radius: 15px;
+  height: 56px;
+  left: 404px;
+  position: absolute;
+  top: 527px;
+  width: 296px;
+}
+
+.advanced-filter-page .icbaseline-arrow-drop-down-circle-2 {
+  height: 24px;
+  left: 255px;
+  position: absolute;
+  top: 15px;
+  width: 24px;
+}
+
+.advanced-filter-page .job-type {
+  left: 92px;
+  letter-spacing: 0;
+  line-height: 22px;
+  position: absolute;
+  top: 486px;
+  white-space: nowrap;
+  width: 176px;
+}
+
+.advanced-filter-page .overlap-group4 {
+  align-items: flex-start;
+  background-color: var(--white-2);
+  border-radius: 15px;
+  display: flex;
+  height: 56px;
+  left: 92px;
+  min-width: 296px;
+  padding: 15px;
+  position: absolute;
+  top: 527px;
+}
+
+.advanced-filter-page .icbaseline-arrow-drop-down-circle-3 {
+  height: 24px;
+  margin-left: 8px;
+  width: 24px;
+}
+
+.advanced-filter-page .good-work-prides-itse {
+  color: var(--mountain-mist);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-m);
+  font-weight: 400;
+  left: 92px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: 257px;
+  width: 608px;
+}
+
+.advanced-filter-page .job-search {
+  color: var(--tuna);
+  font-family: var(--font-family-inter);
+  font-size: 48px;
+  font-weight: 700;
+  left: 92px;
+  letter-spacing: 0;
+  line-height: 64.0px;
+  position: absolute;
+  top: 177px;
+  white-space: nowrap;
+  width: 282px;
+}
+
+.advanced-filter-page .overlap-group6 {
+  border-radius: 6.78px;
+  height: 46px;
+  left: 235px;
+  position: absolute;
+  top: 640px;
+  width: 291px;
+}
+
+.advanced-filter-page .upload-your-resume {
+  color: var(--white);
+  font-family: var(--font-family-inter);
+  font-size: 13.6px;
+  font-weight: 500;
+  height: 19px;
+  left: 67px;
+  letter-spacing: 0.27px;
+  position: absolute;
+  text-align: center;
+  top: 12px;
+  width: 158px;
+}
+
+.advanced-filter-page .component-1 {
+  align-items: flex-start;
+  background-color: var(--palm-leaf);
+  border-radius: 6.78px;
+  display: flex;
+  height: 46px;
+  justify-content: flex-end;
+  left: 0;
+  min-width: 291px;
+  padding: 13px 66.3px;
+  position: absolute;
+  top: 0;
+}
+
+.advanced-filter-page .upload-your-resume-1 {
+  color: var(--white);
+  font-family: var(--font-family-inter);
+  font-size: 13.6px;
+  font-weight: 500;
+  height: 19px;
+  letter-spacing: 0.27px;
+  text-align: center;
+  width: 158px;
+}
+
+.advanced-filter-page .or-optional {
+  align-items: center;
+  display: flex;
+  height: 15px;
+  left: 228px;
+  min-width: 307px;
+  position: absolute;
+  top: 711px;
+}
+
+.advanced-filter-page .vector-4 {
+  height: 1px;
+  margin-top: 2.98px;
+  width: 130px;
+}
+
+.advanced-filter-page .or {
+  color: var(--black);
+  font-family: var(--font-family-inter);
+  font-size: 13.6px;
+  font-weight: 400;
+  letter-spacing: 0.41px;
+  margin-left: 12px;
+  min-height: 15px;
+  text-align: center;
+  width: 17px;
+}
+
+.advanced-filter-page .vector-5 {
+  height: 1px;
+  margin-left: 16px;
+  margin-top: 2.98px;
+  width: 130px;
+}
+
+.advanced-filter-page .optional {
+  color: transparent;
+  font-family: var(--font-family-inter);
+  font-size: 15.4px;
+  left: 247px;
+  letter-spacing: 0.31px;
+  line-height: 11.1px;
+  position: absolute;
+  text-align: center;
+  top: 820px;
+  white-space: nowrap;
+}
+
+.advanced-filter-page .span0 {
+  color: #1e3354;
+  font-weight: 400;
+}
+
+.advanced-filter-page .span1-1 {
+  color: #092c4c;
+  font-weight: 400;
+}
+
+.advanced-filter-page .span2 {
+  color: var(--dell);
+  font-weight: 700;
+}
+
+.advanced-filter-page .large {
+  align-items: center;
+  background-color: var(--eerie-black);
+  border-radius: 7.03px;
+  display: flex;
+  flex-direction: column;
+  gap: 8.78px;
+  left: 88px;
+  padding: 14.05px 42.16px;
+  position: absolute;
+  top: 885px;
+}
+
+.advanced-filter-page .go-back {
+  color: #f8f9fa;
+  font-family: var(--font-family-inter);
+  font-size: 12.3px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 18.4px;
+  margin-top: -0.88px;
+  min-width: 49px;
+  white-space: nowrap;
+}
+
+.advanced-filter-page .component-2 {
+  align-items: flex-start;
+  background-color: var(--white);
+  border: 0.7px solid var(--black);
+  border-radius: 7.46px;
+  display: flex;
+  height: 44px;
+  left: 244px;
+  min-width: 272px;
+  padding: 11.3px 56.3px;
+  position: absolute;
+  top: 752px;
+}
+
+.advanced-filter-page .submit {
+  color: var(--palm-leaf);
+  font-family: var(--font-family-inter);
+  font-size: 13.6px;
+  font-weight: 500;
+  height: 19px;
+  letter-spacing: 0.27px;
+  text-align: center;
+  width: 158px;
+}
